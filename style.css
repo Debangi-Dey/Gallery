@@ -1,0 +1,17 @@
+.i {
+    width: 320px;
+    height: 250px;
+    padding: 3px;
+}
+
+body {
+    text-align: center;
+}
+
+
+
+#myCarousel img {
+    height: 550px;
+    width: 1150px;
+
+}
